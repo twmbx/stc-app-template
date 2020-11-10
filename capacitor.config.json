@@ -1,0 +1,14 @@
+{
+  "appId": "com.twmbx.newapp",
+  "appName": "New App",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "public",
+  "linuxAndroidStudioPath": "/home/twmbx/opt/android-studio/bin/studio.sh",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
